@@ -1,0 +1,54 @@
+#first {
+    background-color: #36C2CE;
+    height: 100vh;
+}
+
+h1 {
+    padding-top: 120px;
+    font-family: "Playwrite CU", cursive;
+}
+
+h2 {
+    font-family: "Roboto", sans-serif;
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+}
+
+#downtext {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
+
+#hello {
+    font-weight: 500;
+}
+
+#nhello {
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-weight: 300;
+}
+
+#vincent-image {
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 30px;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+}
+
+#last {
+    background-color: #36C2CE;
+    height: 70px;
+    font-weight: bold;
+}
+
+.section3 .section4 {
+    background-color: #77E4C8;
+}
